@@ -17,7 +17,7 @@ Personal Neovim configuration using [lazy.nvim](https://github.com/folke/lazy.nv
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/nvim.git ~/.config/nvim
+   git clone https://github.com/atterpac/nvim-dots.git ~/.config/nvim
    ```
 
 3. Create undo directory:
